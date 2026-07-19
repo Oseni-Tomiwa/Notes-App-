@@ -39,7 +39,7 @@ notes-app/
 
 1. Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/notes-app.git
+git clone https://github.com/oseni-tomiwa/notes-app.git
 
 2. Navigate to the project folder:
 
