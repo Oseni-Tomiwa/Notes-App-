@@ -92,9 +92,9 @@ This project is licensed under the MIT License.
 
 Mavery
 
-* GitHub: https://github.com/YOUR_USERNAME
-* Portfolio: https://YOUR_PORTFOLIO_URL
-* LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+* GitHub: https://github.com/oseni-Tomiwa
+* Portfolio: https://osenitomiwa.cfd
+* LinkedIn: https://linkedin.com/in/osenitomiwa
 
 ⸻
 
